@@ -1,23 +1,6 @@
 ﻿python_maze
 ===========
 maze.py - A maze generation and solving program
-Copyright (C) 2014 Brendan Wilson
-brendan.x.wilson@gmail.com
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-This is a maze generation and solving project built using Python 2.7.6. To run it, I would recommend opening a terminal in the folder containing the program files, and calling
 
     python maze.py
 
@@ -72,7 +55,6 @@ This is just here for completeness. It is probably the most naive (read: dumb) w
 
 References:
 
-As always, here are the wikis, though they are not always easy to read:
 http://en.wikipedia.org/wiki/Maze_solving_algorithm
 http://en.wikipedia.org/wiki/Maze_generation_algorithm
 
